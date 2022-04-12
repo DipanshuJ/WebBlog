@@ -1,0 +1,17 @@
+import './Singlepost.css'
+
+function Singlepost() {
+  return (
+    <div className='singlepost'>
+      <img src="https://media.istockphoto.com/photos/artificial-intelligence-and-future-concept-picture-id1034901762?k=20&m=1034901762&s=612x612&w=0&h=lMi11KU07iB5QRSpb0M338PnWsxq5Zz_zXIorQeLclk=" alt="Artificial Intelligence" />
+      
+      <h2>Artificial Intelligence</h2>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam 
+        ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit 
+        amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam eaque numquam consequatur dolorum vero iure? Optio, molestias, asperiores beatae dignissimos illum numquam inventore ipsam ab repudiandae obcaecati harum perspiciatis at impedit. Inventore, cum assumenda!
+      </p>
+    </div>
+  );
+}
+
+export default Singlepost;

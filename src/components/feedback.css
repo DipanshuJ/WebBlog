@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.mainView{
+    display: flex;
+    align-items: flex-start;
+}
+form{
+    flex: 1;
+    margin: 4% 7% 7% 4%;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+.errorshow{
+    color: red;
+}
+.comments{
+    flex:2;
+    padding:20px;
+}
+.topcomments{
+    text-align: center;
+    text-decoration: underline;
+}
+.comment{
+    margin: 30px 20%;
+    border: 2px solid rgb(209, 77, 37);
+    border-radius: 30px;
+}
+.commentheading{
+    padding: 10px;
+    padding-bottom: 0;
+    font-family: 'Hubballi', cursive;
+    font-size: 25px;
+}
+.commentdiscription{
+    padding: 10px;
+    font-family: 'Playfair Display', serif;
+    
+}
+button{
+    margin-right: 20px;
+}

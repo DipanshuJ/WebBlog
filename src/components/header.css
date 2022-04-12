@@ -1,0 +1,37 @@
+.headerTop{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+    background-color: rgb(236, 127, 90);
+}
+.title{
+    flex:4;
+    margin-left: 10px;
+    font-weight: 5px;
+}
+.heading{
+    text-decoration: none;
+    color: black;
+}
+.topLinks{
+    flex:1;
+    display:flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.topLinksItem{
+    margin-right: 20px;
+    font-style: 18px;
+    font-weight: 300;
+}
+.headerBottom{
+    padding-top: 10px;
+    text-align: center;
+}
